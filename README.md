@@ -1,9 +1,7 @@
 # Processamento de Linguagem Natural e IA Conversacional no Azure
 
-## Sobre
 Este repositório documenta o processo de extração e análise de textos a partir de imagens relacionadas ao Processamento de Linguagem Natural (PLN) e IA Conversacional no Azure. Ele demonstra como ferramentas de IA podem ser aplicadas para automação, acessibilidade e geração de insights em diversos contextos.
 
----
 
 ## Processo de Extração de Texto
 
