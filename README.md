@@ -1,42 +1,40 @@
 # Processamento de Linguagem Natural e IA Conversacional no Azure
 
-Este repositório documenta o processo de extração e análise de textos a partir de imagens relacionadas ao Processamento de Linguagem Natural (PLN) e IA Conversacional no Azure. Ele demonstra como ferramentas de IA podem ser aplicadas para automação, acessibilidade e geração de insights em diversos contextos.
-
+Este repositório documenta o processo de extração e análise de textos a partir de imagens relacionadas ao Processamento de Linguagem Natural (PLN) e IA Conversacional no Azure.
 
 ## Processo de Extração de Texto
 
-### 1. Coleta das Imagens
-Foram obtidos screenshots de conteúdos relacionados à IA Conversacional e ao PLN no Azure.
+### Coleta das imagens
 
-### 2. Utilização de IA para Reconhecimento de Texto
-Utilizou-se o Copilot para transcrever os textos contidos nas imagens. Os resultados da transcrição foram armazenados na pasta `output/`.
+Foram obtidos screenshots de um conteúdo relacionado a IA Conversacional e PLN no Azure.
 
----
+### Utilização de IA para reconhecimento de texto
+
+O Copilot foi utilizado para transcrever os textos contidos nas imagens.  
+O resultado da transcrição foi salvo na pasta `output/`.
 
 ## Análise dos Tópicos Extraídos
 
-Os tópicos identificados incluem:
-- **Conceitos de Processamento de Linguagem Natural**
-- **O que é Processamento de Linguagem Natural**
-- **Análise de Sentimentos e Respostas a Perguntas com PLN e IA Conversacional**
-- **Reconhecimento de Fala com PLN e IA Conversacional**
-- **Tradução com PLN e IA Conversacional**
+Os tópicos identificados abordam:
 
----
+- Conceitos de processamento de linguagem natural
+- O que é processamento de linguagem natural
+- Análise de sentimentos e respostas a perguntas usando PLN e IA Conversacional
+- Reconhecimento de fala com PLN e IA Conversacional
+- Tradução com PLN e IA Conversacional
+
+## Geração de insights e documentação
+
+O processo mostrou como ferramentas como Copilot e Azure podem ser usadas para automatizar a extração de informações.  
+Identificou-se que o Azure oferece várias soluções integradas para PLN, como análise de sentimentos, reconhecimento de fala e tradução.
 
 ## Possibilidades e Aplicações
 
-### 1. Automação de Documentação
-A extração rápida de textos a partir de imagens agiliza análises e produção de documentos.
-
-### 2. Integração com IA Conversacional
-Aplicativos podem usar PLN para interpretar perguntas e gerar respostas automaticamente.
-
-### 3. Melhoria na Acessibilidade
-Ferramentas de PLN tornam conteúdo audiovisual mais acessível ao transcrever e traduzir informações.
-
----
+- **Automatização de Documentação**: Extração rápida de textos de imagens pode ser usada para agilizar análises e documentação.
+- **Integração com IA Conversacional**: Aplicativos podem utilizar processamento de linguagem natural para interpretar perguntas e gerar respostas automaticamente.
+- **Melhoria na Acessibilidade**: Ferramentas de PLN podem ser usadas para transcrever conteúdo audiovisual e torná-lo mais acessível.
 
 ## Conclusão
-Esta experiência demonstra o poder da IA para extrair e interpretar informações de imagens. Com uma ampla gama de serviços, o Azure facilita o processamento de linguagem natural, sendo uma ferramenta valiosa para IA conversacional, tradução e reconhecimento de fala.
 
+Essa experiência demonstrou como a IA pode ser utilizada para extrair e interpretar informações de imagens.  
+O Azure possui uma ampla gama de serviços que facilitam o processamento de linguagem natural, tornando-se uma ferramenta poderosa para aplicações de IA conversacional, tradução e reconhecimento de fala.
