@@ -1,0 +1,13 @@
+A imagem apresenta uma lista de tópicos relacionados ao processamento de linguagem natural e IA conversacional no Azure. Cada item é acompanhado por um ícone de reprodução, sugerindo que são vídeos ou aulas disponíveis. Os tópicos listados são:
+
+Conceitos de processamento de linguagem natural
+
+O que é processamento de linguagem natural?
+
+Análise de sentimentos e respostas a perguntas usando processamento de linguagem natural e IA conversacional no Azure
+
+Reconhecimento de fala com processamento de linguagem natural e IA conversacional no Azure
+
+Tradução com processamento de linguagem natural e IA conversacional no Azure
+
+Esses tópicos parecem fornecer um panorama sobre como o Azure aplica IA e técnicas de processamento de linguagem natural em diferentes áreas. Parece ser uma ótima fonte de aprendizado sobre essas tecnologias!
